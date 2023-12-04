@@ -1,3 +1,0 @@
-Aprender a programar un web responsive
-Aprender a utilizar correctamente una base de datos
-Poder crear una aplicación funcional
